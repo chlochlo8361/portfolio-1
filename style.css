@@ -20,6 +20,10 @@ html, body {
 img {
     width: 100%;
 }
+.login-page-background, .login-page-body {
+    background-color: #48b7d3;
+}
+
 .holiday-event-body {
     background: url('images/smooth-wave.png') no-repeat 100% 100% fixed; 
     -webkit-background-size: cover;
@@ -243,6 +247,7 @@ input {
     padding: 0.75rem;
     border: 0.063rem solid #ccc;
     border-radius: 0.188rem;
+    background: white;
 }
 button {
     background-color:#50C8C8;
