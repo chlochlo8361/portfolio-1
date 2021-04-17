@@ -50,7 +50,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
             passes = false;
         }
         if(passes === true) {
-            window.open('index2.html');
+            window.location.assign('index2.html');
             console.log('You did it all areas are filled out')
         }
     }
