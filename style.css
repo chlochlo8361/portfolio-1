@@ -23,7 +23,6 @@ img {
 .login-page-background, .login-page-body {
     background-color: #48b7d3;
 }
-
 .holiday-event-body {
     background: url('images/smooth-wave.png') no-repeat 100% 100% fixed; 
     -webkit-background-size: cover;
@@ -31,16 +30,16 @@ img {
     -o-background-size: cover;
     background-position: right top, left top;
     background-size: 100%;
-    background-color: #fff4d8;
+    /* background-color: #fff4d8; */
 }
 .static-background {
-    background: url('images/smooth-wave.png') no-repeat 100% 100% fixed; 
+    background: url('images/smooth-wave.png');
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-position: right top, left top;
     background-size: 100%;
-    background-color: #fff4d8;
+    /* background-color: #fff4d8; */
 }
 .loginpage {
     font-size: calc(.6em + .4vw);
