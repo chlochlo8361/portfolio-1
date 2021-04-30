@@ -34,7 +34,7 @@ img {
     background-color: #fff4d8;
 }
 .static-background {
-    background: url('images/smooth-wave.png');
+    background: url('images/smooth-wave.png') no-repeat 100% 100% fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
